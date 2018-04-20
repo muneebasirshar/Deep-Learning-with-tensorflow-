@@ -1,0 +1,11 @@
+STEPS TO FOLLOW
+1.install anaconda for windows from the anaconda cloud
+2.open anaconda prompt
+3. conda install jupyter
+4. conda install scipy
+5. pip install pandas
+6. pip install pandas-datareader
+7. pip install keras
+8. pip install tensorflow
+9. pip install pillow
+10. pip install matplotlib
